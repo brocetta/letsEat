@@ -53,7 +53,7 @@ function curvedText(textInner, where) {
 }
 
 // Creating Logo
-image("media/Lets_Eat_Logo.png", "logo", document.body);
+image("media/let_s_eat_white.png", "logo", document.body);
 // Creating Heading
 text("Let's Eat Food", "heading", "h1", document.body);
 
